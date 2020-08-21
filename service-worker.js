@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Yonmarco/my-app-react.git/precache-manifest.43ec3e445bf06b189e7781798f5a0ceb.js"
+  "/Yonmarco/my-app-react.git/precache-manifest.bafa6dabcbb0960914d384294770ec98.js"
 );
 
 self.addEventListener('message', (event) => {

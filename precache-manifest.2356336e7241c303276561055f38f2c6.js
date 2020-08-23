@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb16215a3151246b7db3de5131639ad8",
+    "revision": "a6ddb80e9406b5443f29cf3d6589a007",
     "url": "/Yonmarco/my-app-react.git/index.html"
   },
   {
-    "revision": "11508424586724f1e1cd",
+    "revision": "80037f57564bd45249fb",
     "url": "/Yonmarco/my-app-react.git/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Yonmarco/my-app-react.git/static/js/2.2ebf5461.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11508424586724f1e1cd",
-    "url": "/Yonmarco/my-app-react.git/static/js/main.59673a41.chunk.js"
+    "revision": "80037f57564bd45249fb",
+    "url": "/Yonmarco/my-app-react.git/static/js/main.45ae8ff0.chunk.js"
   },
   {
     "revision": "c62b14be8ee95ff27cdb",

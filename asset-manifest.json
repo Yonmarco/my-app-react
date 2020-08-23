@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Yonmarco/my-app-react.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Yonmarco/my-app-react.git/static/js/main.59673a41.chunk.js",
-    "main.js.map": "/Yonmarco/my-app-react.git/static/js/main.59673a41.chunk.js.map",
+    "main.js": "/Yonmarco/my-app-react.git/static/js/main.45ae8ff0.chunk.js",
+    "main.js.map": "/Yonmarco/my-app-react.git/static/js/main.45ae8ff0.chunk.js.map",
     "runtime-main.js": "/Yonmarco/my-app-react.git/static/js/runtime-main.d8599538.js",
     "runtime-main.js.map": "/Yonmarco/my-app-react.git/static/js/runtime-main.d8599538.js.map",
     "static/js/2.2ebf5461.chunk.js": "/Yonmarco/my-app-react.git/static/js/2.2ebf5461.chunk.js",
     "static/js/2.2ebf5461.chunk.js.map": "/Yonmarco/my-app-react.git/static/js/2.2ebf5461.chunk.js.map",
     "index.html": "/Yonmarco/my-app-react.git/index.html",
-    "precache-manifest.bafa6dabcbb0960914d384294770ec98.js": "/Yonmarco/my-app-react.git/precache-manifest.bafa6dabcbb0960914d384294770ec98.js",
+    "precache-manifest.2356336e7241c303276561055f38f2c6.js": "/Yonmarco/my-app-react.git/precache-manifest.2356336e7241c303276561055f38f2c6.js",
     "service-worker.js": "/Yonmarco/my-app-react.git/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Yonmarco/my-app-react.git/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2ebf5461.chunk.js.LICENSE.txt": "/Yonmarco/my-app-react.git/static/js/2.2ebf5461.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d8599538.js",
     "static/js/2.2ebf5461.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.59673a41.chunk.js"
+    "static/js/main.45ae8ff0.chunk.js"
   ]
 }
